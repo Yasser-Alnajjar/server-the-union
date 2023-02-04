@@ -4,7 +4,7 @@ const app = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
-const PORT = process.env.PORT || 9000;
+const PORT = 9000;
 app.db = router.db;
 app.use(
   jsonServer.rewriter({
@@ -31,6 +31,7 @@ app.use(middlewares);
 app.use(auth);
 app.use(router);
 app.listen(PORT, () => {
-  console.log("Server is Running" + PORT);
+  console.log("Server is Running");
+  console.log("http://localhost:" + PORT);
 });
 module.exports = app;
