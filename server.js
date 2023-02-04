@@ -31,7 +31,6 @@ app.use(middlewares);
 app.use(auth);
 app.use(router);
 app.listen(PORT, () => {
-  console.log("Server is Running");
-  console.log("http://localhost:" + PORT);
+  console.log(`Server is Running ${PORT}`);
 });
 module.exports = app;
