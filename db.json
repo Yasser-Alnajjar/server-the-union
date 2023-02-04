@@ -54,7 +54,7 @@
       "phone": "01121081998",
       "birth": "1-1-2000",
       "address": "giza",
-      "language": "HTML",
+      "language": "html",
       "description": "I am Yasser i like my language and i love teach all pepole my language",
       "id": 2
     },
@@ -89,7 +89,7 @@
       "stages": "Third",
       "firstname": "ibrahim",
       "lastname": "ramadan",
-      "phone": 1121081998,
+      "phone": "01121081998",
       "address": "giza",
       "birth": "5-8-2001",
       "id": 8
@@ -115,7 +115,6 @@
       "phone": "01121081998",
       "birth": "12-10-1995",
       "address": "cairo",
-      "text": "react js",
       "language": "react js",
       "ifTeacher": true,
       "id": 11
@@ -173,7 +172,7 @@
   ],
   "classes": [
     {
-      "lecture": "HTML",
+      "lecture": "html",
       "gradeTarget": "Third",
       "day": "Friday",
       "userId": 2,
@@ -182,7 +181,7 @@
       "id": 1
     },
     {
-      "lecture": "HTML",
+      "lecture": "html",
       "gradeTarget": "Third",
       "day": "Friday",
       "userId": 2,
@@ -191,7 +190,7 @@
       "id": 2
     },
     {
-      "lecture": "HTML",
+      "lecture": "html",
       "gradeTarget": "Third",
       "day": "Friday",
       "userId": 2,
@@ -204,7 +203,7 @@
       "gradeTarget": "Second",
       "day": "Friday",
       "userId": 2,
-      "lecture": "HTML",
+      "lecture": "html",
       "time": "11:00",
       "id": 4
     },
@@ -213,7 +212,7 @@
       "gradeTarget": "Second",
       "day": "Friday",
       "userId": 2,
-      "lecture": "HTML",
+      "lecture": "html",
       "time": "12:00",
       "id": 5
     },
@@ -222,7 +221,7 @@
       "gradeTarget": "Second",
       "day": "Friday",
       "userId": 2,
-      "lecture": "HTML",
+      "lecture": "html",
       "time": "01:00",
       "id": 6
     },
@@ -231,7 +230,7 @@
       "gradeTarget": "Frist",
       "place": "Eraasoft",
       "time": "02:00",
-      "lecture": "HTML",
+      "lecture": "html",
       "userId": 2,
       "id": 7
     },
@@ -240,7 +239,7 @@
       "gradeTarget": "Frist",
       "place": "Eraasoft",
       "time": "03:00",
-      "lecture": "HTML",
+      "lecture": "html",
       "userId": 2,
       "id": 8
     },
@@ -249,7 +248,7 @@
       "gradeTarget": "Frist",
       "place": "Eraasoft",
       "time": "04:00",
-      "lecture": "HTML",
+      "lecture": "html",
       "userId": 2,
       "id": 9
     },
@@ -259,7 +258,7 @@
       "place": "errasoft",
       "time": "08:00",
       "userId": 12,
-      "lecture": "Javascript",
+      "lecture": "javascript",
       "id": 21
     },
     {
@@ -268,7 +267,7 @@
       "place": "errasoft",
       "time": "09:00",
       "userId": 12,
-      "lecture": "Javascript",
+      "lecture": "javascript",
       "id": 22
     },
     {
@@ -277,7 +276,7 @@
       "place": "errasoft",
       "time": "10:00",
       "userId": 12,
-      "lecture": "Javascript",
+      "lecture": "javascript",
       "id": 23
     },
     {
@@ -286,7 +285,7 @@
       "place": "errasoft",
       "time": "11:00",
       "userId": 12,
-      "lecture": "Javascript",
+      "lecture": "javascript",
       "id": 24
     },
     {
@@ -295,7 +294,7 @@
       "place": "errasoft",
       "time": "12:00",
       "userId": 12,
-      "lecture": "Javascript",
+      "lecture": "javascript",
       "id": 25
     },
     {
@@ -304,7 +303,7 @@
       "place": "errasoft",
       "time": "01:00",
       "userId": 12,
-      "lecture": "Javascript",
+      "lecture": "javascript",
       "id": 26
     },
     {
@@ -313,7 +312,7 @@
       "place": "errasoft",
       "time": "02:00",
       "userId": 12,
-      "lecture": "Javascript",
+      "lecture": "javascript",
       "id": 27
     },
     {
@@ -322,7 +321,7 @@
       "place": "errasoft",
       "time": "03:00",
       "userId": 12,
-      "lecture": "Javascript",
+      "lecture": "javascript",
       "id": 28
     },
     {
@@ -331,7 +330,7 @@
       "place": "errasoft",
       "time": "04:00",
       "userId": 12,
-      "lecture": "Javascript",
+      "lecture": "javascript",
       "id": 29
     },
     {
@@ -596,7 +595,7 @@
     {
       "day": "saturday",
       "teacherName": "Mostafa",
-      "language": "PHP",
+      "language": "php",
       "gradeTarget": "Frist",
       "time": "09:00",
       "id": 2
@@ -604,7 +603,7 @@
     {
       "day": "saturday",
       "teacherName": "osama",
-      "language": "Javascript",
+      "language": "javascript",
       "gradeTarget": "Frist",
       "time": "10:00",
       "id": 3
@@ -628,7 +627,7 @@
     {
       "day": "saturday",
       "teacherName": "ahmed",
-      "language": "React js",
+      "language": "react js",
       "gradeTarget": "Second",
       "time": "08:00",
       "id": 6
@@ -1300,7 +1299,7 @@
     {
       "day": "friday",
       "teacherName": "ahmed",
-      "language": "React js",
+      "language": "react js",
       "gradeTarget": "Third",
       "time": "01:00",
       "id": 90
@@ -1420,7 +1419,7 @@
     {
       "day": "sunday",
       "teacherName": "ahmed",
-      "language": "React js",
+      "language": "react js",
       "gradeTarget": "Third",
       "time": "01:00",
       "id": 105
@@ -1428,7 +1427,7 @@
     {
       "day": "monday",
       "teacherName": "ahmed",
-      "language": "HTML",
+      "language": "html",
       "gradeTarget": "Frist",
       "time": "01:00",
       "id": 106
