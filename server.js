@@ -3,7 +3,8 @@ const auth = require("json-server-auth");
 const app = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
-const port = 9000;
+
+const PORT = process.env.PORT || 9000;
 app.db = router.db;
 app.use(
   jsonServer.rewriter({
@@ -29,8 +30,7 @@ app.use(
 app.use(middlewares);
 app.use(auth);
 app.use(router);
-app.listen(port, () => {
-  console.log("Server is Running");
-  console.log("http://localhost:" + port);
+app.listen(PORT, () => {
+  console.log("Server is Running" + PORT);
 });
 module.exports = app;
