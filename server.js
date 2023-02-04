@@ -31,6 +31,6 @@ app.use(auth);
 app.use(router);
 app.listen(port, () => {
   console.log("Server is Running");
-  console.log("http://localhost:" + port);
+  console.log("server is running on port" + port);
 });
 module.exports = app;
